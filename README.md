@@ -49,13 +49,19 @@ ElecKart-Capstone/
 ├── README.md              # Project overview (this file)
 
 ```
-## 📁 Python notebooks (01–05)
+## 📦 Project Deliverables
 
-- 📊 Final 15-slide PowerPoint (PDF Format)
+Due to GitHub's file size limitations, the final zipped deliverables are hosted externally.
 
-- 📈 EDA and Modeling Visuals
+🔗 https://drive.google.com/drive/folders/1cq8_-XgF885OOfFi1z20qidkpzsU-W41?usp=drive_link
 
-- 📄 Final business recommendations for the CMO & CFO
+### Contents of the ZIP:
+- 📁 Python Notebooks (`01_data_preparation.ipynb` to `05_final_recommendations.ipynb`)
+- 📊 Final 15-Slide PowerPoint Presentation (PDF Format)
+- 📈 Data (All in .csv formats)
+
+
+---
 
 
 ##  Tools & Tech
@@ -74,6 +80,7 @@ ElecKart-Capstone/
   ## 💡 This capstone was created as part of an advanced analytics certification.
 
 ---
+
 
 Let me know if you want this `README.md` file as a downloadable file or want help pushing it live to your GitHub!
 
